@@ -8,20 +8,20 @@ assignees: ssp-devcenter
 ---
 
 ## Title
-> 
+> {Insert Issue Title}
 
 
 ## Issue Summary
->
+> {Insert Issue Summary}
 
 ## Issue Description
->
+> {Insert Issue Description}
 
 ## Issue Detail
->
+> {Insert Issue Detail & etc}
 
 ### ApplicationID
->
+> {Insert ApplicationId you use}
 
 ### API Request URL
 ~~~
