@@ -1,4 +1,4 @@
---
+---
 name: API Request Fail
 about: API Request Fail Issue
 title: "[Issue] API Fail"
